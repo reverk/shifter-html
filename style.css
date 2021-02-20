@@ -1,0 +1,17 @@
+th {
+  background-color: gray;
+}
+
+th, td {
+  border: 1px solid black;
+}
+
+.image-left {
+  float: left;
+  padding-right: 20px;
+}
+
+.image-right {
+  float: right;
+  padding-left: 20px;
+}
